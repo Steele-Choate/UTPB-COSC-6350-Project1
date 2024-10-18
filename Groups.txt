@@ -1,6 +1,6 @@
 Group 1:
--Team:
--Region bounds:
+-Team: Steele Choate, Emmanuel Cardenas, Natalia Cardona
+-Region bounds: <32.005726592034286, -102.12040508977776>, <32.01973058599211, -102.12485447124273>, <32.02369479834156, -102.1084143837959>, <32.00962746288935, -102.10388958908577>
 
 Group 2:
 -Team:
